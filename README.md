@@ -3,10 +3,8 @@
 
 **I'm a Full-Stack Developer from Lille, France**
 
-- 🔧 I’m currently working on my **first iOS app** that will get published on App Store!
-- 🌱 I’m currently learning *Swift and Combine* framework
-- 📚 I already have some knowledge in `html`, `css`, `js`, `vue.js`, `php`, `sql`, `golang`, `c#`, `python` and `swift`
+- 🌱 I'm a self-taught developer, mostly working on personal back-end projects with PHP, Swift and VueJS.
+- ⚙️ I'm currently learning and making web-apps with Laravel
+- 📚 My knowledge: `html`, `css`, `js`, `vue.js`, `php`, `sql`, `golang`, `c#`, and `swift`
 - 📫 Reach me by mail for any question: `victor.lourme@icloud.com`
 - 🛹 Fun fact: I'm also a skater
-
-**Check out my applications: [Victor Lourme on App Store](https://apps.apple.com/us/developer/victor-lourme/id1525127842)**
